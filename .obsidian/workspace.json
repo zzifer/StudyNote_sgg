@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "尚硅谷Git入门到精通全套教程/尚硅谷Git入门到精通全套教程.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c45a1bb55b32acec",
@@ -86,7 +87,7 @@
               "type": "backlink",
               "state": {
                 "file": "尚硅谷Git入门到精通全套教程/尚硅谷Git入门到精通全套教程.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -129,12 +130,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,7 +147,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1b9cbf6477eab138",
+  "active": "73b7d9d67de80089",
   "lastOpenFiles": [
     "尚硅谷Git入门到精通全套教程/attachments/Pasted image 20230209165758.png",
     "尚硅谷Git入门到精通全套教程/attachments/Pasted image 20230209165732.png",
