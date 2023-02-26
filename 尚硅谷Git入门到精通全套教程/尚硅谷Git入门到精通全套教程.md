@@ -201,6 +201,12 @@ git remote -v
 # 远程地址链接太长了记不住可以起别名
 git remote add 别名 远程地址
 
+# 修改别名
+git remote rename 原别名 新别名
+
+# 删除别名
+git remote rm 别名
+
 # 推送本地分支上的内容到远程仓库
 # 下面的别名是远程库的别名,分支是本地库的分支
 git push 别名 分支

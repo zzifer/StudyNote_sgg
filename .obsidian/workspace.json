@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "尚硅谷Git入门到精通全套教程/尚硅谷Git入门到精通全套教程.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -139,9 +139,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:Create new canvas": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false
